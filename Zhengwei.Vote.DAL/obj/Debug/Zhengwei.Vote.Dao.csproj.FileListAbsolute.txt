@@ -1,0 +1,7 @@
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.DAL\bin\Debug\Zhengwei.Vote.DAL.dll
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.DAL\bin\Debug\Zhengwei.Vote.DAL.pdb
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.DAL\bin\Debug\Zhengwei.Vote.Model.dll
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.DAL\bin\Debug\Zhengwei.Vote.Model.pdb
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.DAL\obj\Debug\Zhengwei.Vote.Dao.csprojResolveAssemblyReference.cache
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.DAL\obj\Debug\Zhengwei.Vote.DAL.dll
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.DAL\obj\Debug\Zhengwei.Vote.DAL.pdb

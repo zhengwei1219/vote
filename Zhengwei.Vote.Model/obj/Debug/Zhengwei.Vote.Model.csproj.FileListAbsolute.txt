@@ -1,0 +1,4 @@
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.Model\bin\Debug\Zhengwei.Vote.Model.dll
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.Model\bin\Debug\Zhengwei.Vote.Model.pdb
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.Model\obj\Debug\Zhengwei.Vote.Model.dll
+G:\zhengwei\Project\Zhengwei.Vote\Zhengwei.Vote.Model\obj\Debug\Zhengwei.Vote.Model.pdb

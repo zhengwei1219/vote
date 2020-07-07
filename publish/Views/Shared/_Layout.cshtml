@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="baidu-site-verification" content="Yfhs0Oa8gh" />
+    <meta name="baidu-site-verification" content="DPpATs4F1A" />
+    <meta name="baidu-site-verification" content="CJZevuselG" />
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta name="applicable-device" content="pc,mobile" />
+    <title>@ViewBag.Title 吉祥网络投票公司-承接各类微信代理刷票业务</title>
+    <meta name="keywords" content="刷票公司,代理投票,网络投票公司" />
+    <meta name="description" content="吉祥网络投票公司为全国各地提供微信投票评选活动、代理投票、短信声讯刷票等服务。旗下平台众多,拥有十几万从事微信投票服务的投票会员,近百万网络水军为您快速拉票,助您踏上成功之路，脱颖而出！" />
+    <link href="../Content/qx_main.css" rel="stylesheet" type="text/css" />
+    <link href="../Content/index.jsp.css" rel="stylesheet" type="text/css" />
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+    <script src="~/Scripts/default2.aspx.js"></script>
+    <script src="../Scripts/jquery162.js" type="text/javascript"></script>
+    <script src="~/Scripts/jquery.slide.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+   
+
+</head>
+<body>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.ToString("yyyy-MM-dd") 有味网络投票有限公司</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

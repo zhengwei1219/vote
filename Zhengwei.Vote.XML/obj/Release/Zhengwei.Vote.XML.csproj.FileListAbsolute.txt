@@ -1,0 +1,5 @@
+G:\zhengwei\Project\zhengwei.vote\Zhengwei.Vote.XML\bin\Release\Zhengwei.Vote.XML.dll
+G:\zhengwei\Project\zhengwei.vote\Zhengwei.Vote.XML\bin\Release\Zhengwei.Vote.XML.pdb
+G:\zhengwei\Project\zhengwei.vote\Zhengwei.Vote.XML\obj\Release\Zhengwei.Vote.XML.csprojResolveAssemblyReference.cache
+G:\zhengwei\Project\zhengwei.vote\Zhengwei.Vote.XML\obj\Release\Zhengwei.Vote.XML.dll
+G:\zhengwei\Project\zhengwei.vote\Zhengwei.Vote.XML\obj\Release\Zhengwei.Vote.XML.pdb
